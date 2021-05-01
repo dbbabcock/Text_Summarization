@@ -1,4 +1,6 @@
 import string
+import re
+
 #Helper Functions
 def clean_text(text,lowercase=False):
     
@@ -22,3 +24,17 @@ def clean_text(text,lowercase=False):
 def ngrams(text, n):
     words = text.split()
     return [ words[i:i+n] for i in range(len(words))]
+
+def remove_text_in_parens(text, replace_with=""):
+    """Return string of provided text with any text within parenthesis replaced with given replace_with value, default ''."""
+    
+    # This pattern removes all characters contained within parenthesis:
+    # Ex. (This was demonstrated in Blah Blah 2018...) --> replace_with
+    pattern = re.compile(r'\((.*?)\)')
+    
+    # Make sure the input text is a string, otherwise it won't work with df.apply:
+    text_string = str(text)
+    
+    clean_text = pattern.sub(replace_with, text_string)
+    
+    return clean_text
