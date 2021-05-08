@@ -107,18 +107,6 @@
             1
         ]
     },
-    "and RCCEs": {
-        "LongForm": "and discriminant validity. In CCEs",
-        "Document": [
-            1
-        ]
-    },
-    "VCP": {
-        "LongForm": "VC psychotherapy",
-        "Document": [
-            1
-        ]
-    },
     "MMPI": {
         "LongForm": "Minnesota Multiphasic Personality Inventory",
         "Document": [
@@ -155,7 +143,7 @@
         ]
     },
     "IPT": {
-        "LongForm": "interpersonal psychotherapy for substance use",
+        "LongForm": "interpersonal psychotherapy",
         "Document": [
             2
         ]
@@ -187,12 +175,6 @@
             2,
             6,
             15
-        ]
-    },
-    "DRP": {
-        "LongForm": "Drexel Reentry Project",
-        "Document": [
-            2
         ]
     },
     "AACN": {
@@ -317,34 +299,10 @@
             5
         ]
     },
-    "Strongly Agree": {
-        "LongForm": "Strongly Disagree) to 7",
-        "Document": [
-            5
-        ]
-    },
     "ANOVA": {
         "LongForm": "analysis of variance",
         "Document": [
             5
-        ]
-    },
-    "man": {
-        "LongForm": "masculine gender",
-        "Document": [
-            6
-        ]
-    },
-    "health": {
-        "LongForm": "health research",
-        "Document": [
-            7
-        ]
-    },
-    "present": {
-        "LongForm": "present study",
-        "Document": [
-            8
         ]
     },
     "tests": {
@@ -389,12 +347,6 @@
         "Document": [
             9,
             38
-        ]
-    },
-    "Joint Task Force": {
-        "LongForm": "Joint Task Force for the Development of Telepsychology Guidelines for Psychologists",
-        "Document": [
-            10
         ]
     },
     "ROSA": {
@@ -455,12 +407,6 @@
         "Document": [
             11,
             38
-        ]
-    },
-    "here": {
-        "LongForm": "Hoover, Merenbloom, & Johnson, 2018",
-        "Document": [
-            12
         ]
     },
     "PHI": {
@@ -606,12 +552,6 @@
             16
         ]
     },
-    "committee": {
-        "LongForm": "committee + reference number",
-        "Document": [
-            16
-        ]
-    },
     "DBDs": {
         "LongForm": "disruptive behavior disorders",
         "Document": [
@@ -742,12 +682,6 @@
             24
         ]
     },
-    "Code": {
-        "LongForm": "confidentiality, informed consent",
-        "Document": [
-            25
-        ]
-    },
     "FERPA": {
         "LongForm": "Family Educational Rights and Privacy Act",
         "Document": [
@@ -818,18 +752,6 @@
             32
         ]
     },
-    "SMS": {
-        "LongForm": "Sending links by text message",
-        "Document": [
-            32
-        ]
-    },
-    "Mirah": {
-        "LongForm": "https://www.mirah.com/), OQ Analyst (https://www.oqmeasures.com/",
-        "Document": [
-            32
-        ]
-    },
     "client": {
         "LongForm": "client",
         "Document": [
@@ -854,20 +776,8 @@
             32
         ]
     },
-    "Boards": {
-        "LongForm": "Boards, 2012",
-        "Document": [
-            33
-        ]
-    },
     "TOP": {
         "LongForm": "Telehealth Outreach Program",
-        "Document": [
-            34
-        ]
-    },
-    "Vidyo": {
-        "LongForm": "Vidyo Inc., 2010",
         "Document": [
             34
         ]
@@ -911,12 +821,6 @@
             35
         ]
     },
-    "veterans": {
-        "LongForm": "Veterans Affairs, 2018a",
-        "Document": [
-            36
-        ]
-    },
     "VA OAA": {
         "LongForm": "VA is governed by the Office of Academic Affiliations",
         "Document": [
@@ -924,10 +828,7 @@
         ]
     },
     "OAA": {
-        "LongForm": "of Veterans Affairs, 2015",
-        "Document": [
-            36
-        ]
+        "LongForm": "Office of Academic Affiliations"
     },
     "TAST": {
         "LongForm": "technology-assisted supervision and training",
@@ -943,18 +844,6 @@
     },
     "VAPIHCS": {
         "LongForm": "TMH.VA Pacific Islands Health Care System",
-        "Document": [
-            36
-        ]
-    },
-    "Affairs": {
-        "LongForm": "Affairs, 2018a",
-        "Document": [
-            36
-        ]
-    },
-    "to": {
-        "LongForm": "times located within",
         "Document": [
             36
         ]
@@ -1061,12 +950,6 @@
             40
         ]
     },
-    "fit": {
-        "LongForm": "for participants who are not technologically savvy",
-        "Document": [
-            40
-        ]
-    },
     "TMHT": {
         "LongForm": "telemental health therapy",
         "Document": [
@@ -1075,18 +958,6 @@
     },
     "NSA": {
         "LongForm": "National Security Agency",
-        "Document": [
-            41
-        ]
-    },
-    "Nebraska": {
-        "LongForm": "Nebraska Statewide TeleHealth Network, 2006",
-        "Document": [
-            41
-        ]
-    },
-    "Missouri": {
-        "LongForm": "Missouri Telehealth Network, 2015",
         "Document": [
             41
         ]
@@ -1111,12 +982,6 @@
     },
     "providers": {
         "LongForm": "Providers",
-        "Document": [
-            41
-        ]
-    },
-    "standards": {
-        "LongForm": "Standards 3.10 and 10.01",
         "Document": [
             41
         ]
@@ -1150,5 +1015,8 @@
         "Document": [
             43
         ]
+    },
+    "NYH": {
+        "LongForm": "New York Harbor Healthcare System"
     }
 }
